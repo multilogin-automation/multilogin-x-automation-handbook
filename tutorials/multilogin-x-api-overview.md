@@ -17,9 +17,10 @@ The Multilogin X API allows you to programmatically manage browser profiles, aut
   - Tokens are valid for 30 minutes. Refresh with `POST /user/refresh_token`.
   - For higher rate limits and longer token lifetimes, use an automation token.
 
-> **💡 Partner Offer:**
-> Get 50% OFF Multilogin with code `ADBNEW50` or `SAVE50`
-> 👉 [Buy with discount](https://adblogin.com/go/multilogin)
+> **💡 Promo Codes (50% OFF):**
+> - Multilogin Antidetect Browser: `SAAS50`
+> - Multilogin Minutes: `MIN50`
+> 📦 More scripts & latest coupons: [@Multilogin_Scripts_Bot](https://t.me/Multilogin_Scripts_Bot) · [Full promo guide](../docs/promo-codes.md)
 
 ---
 
@@ -79,4 +80,10 @@ else:
 - [Official API Documentation](https://documenter.getpostman.com/view/28533318/2s946h9Cv9)
 - [Support Page](https://help.multilogin.com/en_US/multilogin-x)
 
-For more automation tips and code examples, see other tutorials in this handbook.
+## Related
+
+- [How to Get API Tokens in DevTools](how-to-get-api-tokens-in-devtools.md)
+- [How to Get Profile, Folder, and Workspace IDs](how-to-get-profile-folder-workspace-ids-in-devtools.md)
+- [How to Find a User ID in DevTools](how-to-find-user-id-in-devtools.md)
+- [`snippets/`](../snippets/) — Python automation scripts
+- [Promo codes & scripts hub](../docs/promo-codes.md)

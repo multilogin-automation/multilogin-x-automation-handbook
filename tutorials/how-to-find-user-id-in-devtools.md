@@ -10,9 +10,10 @@ This guide will show you how to quickly retrieve your Multilogin user ID using y
 - **Tools Needed:** Any modern browser (Chrome, Edge, Firefox, etc.)
 - **Skill Level:** Beginner
 
-> **💡 Partner Offer:**
-> Get 50% OFF Multilogin with code `ADBNEW50` or `SAVE50`
-> 👉 [Buy with discount](https://adblogin.com/go/multilogin)
+> **💡 Promo Codes (50% OFF):**
+> - Multilogin Antidetect Browser: `SAAS50`
+> - Multilogin Minutes: `MIN50`
+> 📦 More scripts & latest coupons: [@Multilogin_Scripts_Bot](https://t.me/Multilogin_Scripts_Bot) · [Full promo guide](../docs/promo-codes.md)
 
 ---
 
@@ -76,4 +77,12 @@ else:
 ---
 
 ## Summary
-You can easily retrieve your Multilogin user ID using browser DevTools. This ID is essential for API automation and support. For more automation tips, see other tutorials in this handbook.
+You can easily retrieve your Multilogin user ID using browser DevTools. This ID is essential for API automation and support.
+
+## Related
+
+- [How to Get API Tokens in DevTools](how-to-get-api-tokens-in-devtools.md)
+- [How to Get Profile, Folder, and Workspace IDs](how-to-get-profile-folder-workspace-ids-in-devtools.md)
+- [Multilogin X API Overview](multilogin-x-api-overview.md)
+- [Promo codes & scripts hub](../docs/promo-codes.md)
+- [`snippets/get_ids_multilogin_api.py`](../snippets/get_ids_multilogin_api.py)

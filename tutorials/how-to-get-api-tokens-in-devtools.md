@@ -10,9 +10,10 @@ This tutorial explains how to quickly find your Multilogin API token using your 
 - **Tools Needed:** Any modern browser (Chrome, Edge, Firefox, etc.)
 - **Skill Level:** Beginner
 
-> **💡 Partner Offer:**
-> Get 50% OFF Multilogin with code `ADBNEW50` or `SAVE50`
-> 👉 [Buy with discount](https://adblogin.com/go/multilogin)
+> **💡 Promo Codes (50% OFF):**
+> - Multilogin Antidetect Browser: `SAAS50`
+> - Multilogin Minutes: `MIN50`
+> 📦 More scripts & latest coupons: [@Multilogin_Scripts_Bot](https://t.me/Multilogin_Scripts_Bot) · [Full promo guide](../docs/promo-codes.md)
 
 ---
 
@@ -67,4 +68,11 @@ else:
 ---
 
 ## Summary
-You can easily retrieve your Multilogin API token using browser DevTools. This token is required for API automation and integration. For more automation tips, see other tutorials in this handbook.
+You can easily retrieve your Multilogin API token using browser DevTools. This token is required for API automation and integration.
+
+## Related
+
+- [How to Find a User ID in DevTools](how-to-find-user-id-in-devtools.md)
+- [How to Get Profile, Folder, and Workspace IDs](how-to-get-profile-folder-workspace-ids-in-devtools.md)
+- [Multilogin X API Overview](multilogin-x-api-overview.md)
+- [`snippets/get_token_playwright.py`](../snippets/get_token_playwright.py)

@@ -10,9 +10,10 @@ This tutorial shows you how to find your profile, folder, and workspace IDs in M
 - **Tools Needed:** Any modern browser (Chrome, Edge, Firefox, etc.)
 - **Skill Level:** Beginner
 
-> **💡 Partner Offer:**
-> Get 50% OFF Multilogin with code `ADBNEW50` or `SAVE50`
-> 👉 [Buy with discount](https://adblogin.com/go/multilogin)
+> **💡 Promo Codes (50% OFF):**
+> - Multilogin Antidetect Browser: `SAAS50`
+> - Multilogin Minutes: `MIN50`
+> 📦 More scripts & latest coupons: [@Multilogin_Scripts_Bot](https://t.me/Multilogin_Scripts_Bot) · [Full promo guide](../docs/promo-codes.md)
 
 ---
 
@@ -76,4 +77,11 @@ else:
 ---
 
 ## Summary
-You can easily retrieve profile, folder, and workspace IDs using the Multilogin interface or browser DevTools. These IDs are required for API automation and advanced management. For more automation tips, see other tutorials in this handbook.
+You can easily retrieve profile, folder, and workspace IDs using the Multilogin interface or browser DevTools. These IDs are required for API automation and advanced management.
+
+## Related
+
+- [How to Get API Tokens in DevTools](how-to-get-api-tokens-in-devtools.md)
+- [How to Find a User ID in DevTools](how-to-find-user-id-in-devtools.md)
+- [Multilogin X API Overview](multilogin-x-api-overview.md)
+- [`snippets/get_ids_multilogin_api.py`](../snippets/get_ids_multilogin_api.py)
